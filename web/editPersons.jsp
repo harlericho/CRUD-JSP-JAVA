@@ -34,7 +34,7 @@
                     <input type="email" class="form-control" id="txtemail"
                     value="<%= res.getString(3)%>" name="txtemail" aria-describedby="emailHelp" required="">
                 </div>
-                <button type="submit" class="btn btn-primary" name="btnEdit"> <i class="fa fa-edit"></i> Save</button>
+                <button type="submit" class="btn btn-primary" name="btnEdit"> <i class="fa fa-edit"></i> Edit</button>
                 <br><br>
                 <div class="form-group">
                     <a href="index.jsp">Go to start</a>
